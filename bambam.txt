@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 line xxx
 
+=======
+line zzz
+>>>>>>> parent of 6476afb (lessgo)
